@@ -1,0 +1,4 @@
+enum MessageOwner {
+  sender,
+  receiver,
+}

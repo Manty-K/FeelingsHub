@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252658261172",
+    "project_id": "hacklegends-7ea14",
+    "storage_bucket": "hacklegends-7ea14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252658261172:android:17fe7c0bd6539e0de8cbe1",
+        "android_client_info": {
+          "package_name": "com.hacklegends.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252658261172-crbvf7evmnrfp3ktag6acpe6kvsrquf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjMz3MFHQhWBhMkYeBOQuDF3iIMPKazBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252658261172-crbvf7evmnrfp3ktag6acpe6kvsrquf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
