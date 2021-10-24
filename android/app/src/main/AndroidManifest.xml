@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.hacklegends.app">
    <application
-        android:label="hacklegendsa"
+        android:label="Feelings Hub"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
