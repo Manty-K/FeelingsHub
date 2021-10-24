@@ -1,5 +1,5 @@
 # Feelings Hub
-
+![Banner](https://github.com/Punit-Choudhary/FeelingsHub/blob/main/banner.png)
 ## 💡 Inspiration
 Mental health is a major concern worldwide and India is not far behind in sharing this. About 14% of the global burden of disease is attributed to neuropsychiatric disorders and in India WHO estimates that the burden of mental health problems in India is 2443 disability-adjusted life years (DALYs) per 100 00 population and the suicide rate percentage due to mental health is 21.1 percent in the last few years and it had increased more due to spread of covid 19 virus. Mental health, loneliness, depression, etc are all serious issues in modern times but people are afraid to talk about them. Indian societies consider mental health as taboo due to which people are more afraid to talk about it and instead of getting support and help from society they suffer alone. People who suffer from mental illness needed a medium to talk, to express themselves, they needed support and motivation. By remarking this importance we are creating an app where people who suffer from mental health can talk openly, share their problems and difficulties and get motivated, and be guided properly so that they can enjoy their life to the fullest of its means. That's our sole purpose of making this app to bring happiness back to the life of people.
 
